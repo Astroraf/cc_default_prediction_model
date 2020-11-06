@@ -4,15 +4,15 @@
 ## Overview
 
 ## Medium Article
-[The Article]()
 
 ## Repository Structure
     .
-    ├── reference                                # example code for medium
-    ├── data
-    ├── src                                     # OOP version of the game
-    ├── rock_paper_scissors_code_along.ipynb    # code along/tutorial notebook
-    ├── rock_paper_scissors_game.py             # OOP version implementation           
+    ├── reference                       # reference material provided for the project
+    ├── data                            # modeling train and test data
+    ├── src                             # source code for custom functions
+    ├── notebooks                       # jupyter notebooks
+    |    ├── default_payment_eda.ipynb  # EDA and data cleaning   
+    ├── model                           # model binary data stored here
     └── README.md
 
 ## Author
